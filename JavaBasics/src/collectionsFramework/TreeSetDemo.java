@@ -26,6 +26,8 @@ public class TreeSetDemo {
 		System.out.println("Total items in the arraylist = " + cities.size());
 		System.out.println("Is Sydney present in the ArrayList - " + cities.contains("Sydney"));
 		
+		//Today is Wednesday
+		
 	}
 
 }
